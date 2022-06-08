@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+
+#Added by TGMstudios
+# Custom config file: Config.json
+config.json
+# MySQL Local files
+mysql/

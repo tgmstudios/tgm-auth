@@ -1,0 +1,14 @@
+{
+    "mysql_host": "127.0.0.1",
+    "mysql_port": 3306,
+    "mysql_user": "username",
+    "mysql_pass": "password",
+    "mysql_db": "TGM_Auth",
+    "email_smtp_host": "smtp.gmail.com",
+    "email_smtp_port": 465,
+    "email_smtp_auth_user": "noreply@tgmstudios.net",
+    "email_smtp_auth_pass": "password",
+    "email_verify_url": "https://account.tgmstudios.net/email/verify?token=",
+    "email_from_name": "TGMstudios No-Reply"
+}
+    
